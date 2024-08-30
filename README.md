@@ -1,6 +1,6 @@
 # REVOLUT
 
-## Este es el Proyecto final de el Modulo 1 de el Master en Front end con DEV.F
+## Este es el Proyecto final de el Modulo 1 en el Master en Front end con DEV.F
 
 **REVOLUT** es una página web de e-commerce dedicada a la venta de ropa masculina. El proyecto está diseñado para mostrar una variedad de productos de moda, incluyendo camisas, pantalones y chaquetas, con una interfaz limpia y fácil de navegar. La página incluye secciones para ver productos, detalles de cada artículo y un formulario de contacto para que los usuarios puedan dejar sus comentarios o consultas.
 
